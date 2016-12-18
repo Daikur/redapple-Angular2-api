@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mysql-redapple": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "redapple",
+    "password": "root",
+    "name": "mysql-redapple",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
